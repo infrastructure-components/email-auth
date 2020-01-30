@@ -13,7 +13,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.8.0",
     "express": "^4.17.1",
-    "infrastructure-components": "^0.3.8-alpha.9",
+    "infrastructure-components": "^0.3.8",
     "isomorphic-fetch": "^2.2.1",
     "react": "^16.12.0",
     "react-apollo": "^2.5.8",
@@ -25,7 +25,7 @@
     "styled-components": "^4.4.1"
   },
   "devDependencies": {
-    "infrastructure-scripts": "^0.3.7",
+    "infrastructure-scripts": "^0.3.8",
     "serverless-domain-manager": "^3.3.1",
     "serverless-dynamodb-local": "^0.2.38",
     "serverless-offline": "^4.9.4",
