@@ -1,0 +1,7 @@
+service:
+  name: install-config
+plugins:
+  - serverless-dynamodb-local
+provider:
+  name: aws
+  runtime: nodejs8.10
