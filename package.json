@@ -11,24 +11,25 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@babel/polyfill": "^7.8.0",
+    "@babel/polyfill": "^7.8.7",
     "express": "^4.17.1",
-    "infrastructure-components": "^0.3.8",
+    "infrastructure-components": "^0.3.10-alpha.3",
     "isomorphic-fetch": "^2.2.1",
-    "react": "^16.12.0",
-    "react-apollo": "^2.5.8",
-    "react-dom": "^16.12.0",
+    "react": "^16.13.1",
+    "react-apollo": "^3.1.4",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^5.2.1",
     "react-router-dom": "^5.1.2",
-    "react-helmet": "^5.2.0",
-    "request": "^2.88.0",
-    "serverless-http": "^2.1.0",
-    "styled-components": "^4.4.1"
+    "recompose": "^0.30.0",
+    "request": "^2.88.2",
+    "serverless-http": "^2.3.2",
+    "styled-components": "^5.1.0"
   },
   "devDependencies": {
-    "infrastructure-scripts": "^0.3.8",
+    "infrastructure-scripts": "^0.3.10-alpha.7",
     "serverless-domain-manager": "^3.3.1",
-    "serverless-dynamodb-local": "^0.2.38",
-    "serverless-offline": "^4.9.4",
+    "serverless-dynamodb-local": "^0.2.39",
+    "serverless-offline": "^6.1.4",
     "serverless-pseudo-parameters": "^2.5.0",
     "serverless-single-page-app-plugin": "^1.0.2"
   }
